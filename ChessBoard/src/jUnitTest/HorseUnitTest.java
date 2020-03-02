@@ -22,7 +22,6 @@ PiecesClass piecesClass = new PieceHorse();
 	  public void testOfHorseCornerPosition() {
 	  
 		  assertEquals("B3,C2",piecesClass.moveAvailable("A1"));
-		  System.out.println("\n");
 		   
 	  }
 
